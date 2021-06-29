@@ -2,7 +2,7 @@
 
 ## Overview
 
-株式会社DMM少額短期保険のGoogleドライブの監査ログの抽出するスクリプト()
+株式会社DMM少額短期保険のGoogleドライブの監査ログの抽出するスクリプト
 
 ## Description
 
